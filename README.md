@@ -7,4 +7,4 @@ We've made these policies available under a Creative Commons Sharealike license,
 
 If you have any questions, email us at yourfriends@bondry.co.kr. 
 
-Thanks!
+Thanks.
