@@ -15,7 +15,6 @@ endif
 	git add . && \
 	git commit -m "Auto commit" && \
 	git branch -M main && \
-	git remote add origin $(GITHUB_REPO) && \
 	git push -u -f origin main
 
 	@echo "✅ Finished deploy: $(GITHUB_REPO)"
